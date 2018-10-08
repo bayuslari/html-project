@@ -1,0 +1,65 @@
+/**
+ *
+ * YOUR TEMPLATE NAME
+ *
+ *
+ */
+
+//
+// Colors
+//
+
+$white: #fff;
+$black: #000;
+
+/* ==========================================================================
+   General
+   ========================================================================== */
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: $black;
+}
+
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+a {
+  color: $black;
+  &:hover {
+    color: $black;
+    text-decoration: none;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+/* ==========================================================================
+   COMPONENTS
+   ========================================================================== */
+
+/**
+ * Header
+ */
+
+header {
+
+}
+
+/**
+ * FOOTER
+ */
+
+footer {
+
+}
